@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/assertion/AssertionPoster.jpg
 title: "A Preliminary Investigation of the Understandability of Assertion Error Messages"
 date: 2023
 published: true
@@ -12,24 +12,10 @@ labels:
 summary: "My team analyzed JUnit assertion error messages within open-source Java systems to explore their construction and characteristics."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/assertion/SURESymposium.jpg">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The research project deals with the crucial aspect of software quality assurance, specifically focusing on the often overlooked area of assertion error messages within unit testing. The primary motivation behind the study is the recognition that while the quality of test cases has been extensively explored, little attention has been given to the understandability of assertion error messages, which play a vital role in facilitating the debugging and refactoring process. The central research question revolves around identifying the characteristics of assertion error messages in Java Systems and understanding how their content and context in surrounding unit tests impact their comprehensibility to developers.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In this research, I was involved in analyzing assertion statements in seven well-documented Java systems that utilize the JUnit4 testing framework. As part of the methodology, we randomly selected 50 unique assertion statements for detailed examination. Employing a Straussian grounded theory-based approach, we formulated open-ended research questions, conducted data collection, and derived categories that led to the central theme. The results revealed three overarching categories of assertion error messages: Understandable, Obfuscating, and Ambiguous. Each category was further refined with subcategories, providing a nuanced understanding of the messages.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Through this research experience, I gained valuable insights into the challenges developers face in maintaining unit tests and the significance of crafting quality assertion error messages. The findings underscored the importance of understanding how developers semantically construct these messages and the impact it has on their comprehensibility. This project not only contributed to the academic discourse on software quality assurance but also holds practical implications for industry developers seeking to enhance the understandability and maintainability of their unit tests.
