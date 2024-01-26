@@ -17,31 +17,19 @@ labels:
 
 In the dynamic and rapidly evolving field of software engineering, the ability to ask smart questions is a fundamental skill that distinguishes exceptional engineers. Smart questions not only reflect intellectual curiosity but also demonstrate a deep understanding of the problem at hand. When software engineers pose thoughtful and well-reasoned queries, they not only seek clarification but also contribute to the overall problem-solving process. Effective communication through intelligent questioning fosters collaboration within development teams, enabling a collective exploration of ideas and solutions. Smart questions also serve as a catalyst for innovation, pushing engineers to critically evaluate existing approaches and explore new perspectives. Moreover, the process of asking intelligent questions enhances an engineer's ability to analyze complex issues, identify key variables, and refine problem statements. In essence, the art of asking smart questions is integral to the development of astute and forward-thinking software engineers, driving continuous improvement and excellence in the ever-evolving landscape of technology.
 
-## What’s a smart question?
+## What makes a question smart?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Stack Overflow, a platform dedicated to programming-related queries and solutions, serves as a valuable tool for people encountering coding challenges or hoping to broaden their knowledge. During my exploration, I encountered my fair share of well-structured questions as well as those that were not-so-well constructed.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+In this [example](https://stackoverflow.com/q/8318911), an online user asks a question regarding HTML and certain colors have "odd" names. Let's take a look at whether this question meets the qualifications of a smart question.
 
-```
-Q: python date of the previous month
+To begin with, the heading of the question is quite amusing as it is not common to see "chucknorris" being referred to as the name of a color. The user provides specific code snippets that they tried and the effect that they had. They even went as far as to make the code interactive and runnable so that the viewer can actually see what the code does. They also provided multiple examples to compare the differences between using different name colors that resemble "chucknorris." In fact, I myself learned something from this question-and-answer thread. While it may not necessarily be applicable in my academics, it certainly is a fun fact to know.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
-```
+## Traits of a not-so-smart question.
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+While some questions are helpful to a broad audience, others can fall short of that. In this [example](https://stackoverflow.com/q/77885299), a user asks how to create a certain image design.
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+In the case of this question, the user fails to follow the guidelines for smart questions. They do not describe the symptoms of their design issue, the environment in which it occurs, or any research they conducted before seeking help. Furthermore, there is no mention of diagnostic steps taken or recent changes in their design software or configuration. Without this crucial information, it becomes challenging for others in the community to provide meaningful assistance.
 
 ## Conclusion
 
