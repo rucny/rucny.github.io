@@ -125,16 +125,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Project Funding",
+      "date": "2024",
+      "awarder": "UHM Undergraduate Research Opportunities Program",
+      "summary": "UROP provides merit-based scholarship funds (up to $5,000 per individual project) to UHM undergraduate students who successfully propose a mentored research or creative work project."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Entering Research and Creative Work",
+      "date": "2023",
+      "awarder": "UHM Undergraduate Research Opportunities Program",
+      "summary": "UROP provides the merit-based Entering Research and Creative Work funding opportunity to motivated UHM undergraduate students with little to no research or creative work experience. It provides a stipend of $3,000 for two semesters."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "This scholarship is designed to recognize the academic strengths of first-year, degree-seeking students who enroll at UH Manoa. It is awarded at the start of the student’s Manoa degree pursuit and is intended to support the student’s enrollment for 4 years."
     }
   ],
   "references": [
