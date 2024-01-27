@@ -58,8 +58,8 @@
       "endDate": "Present",
       "summary": "Perform machine learning internship services",
       "highlights": [
-        "Storage and organization of new datasets on the company's local server environment",
-        "Backup of datasets from our local server environment to our cloud environment",
+        "Storage and organization of new datasets onto the company's local server environment",
+        "Backup of datasets from the local server environment to the cloud environment",
         "Running scripting to create video clips",
         "Organizing video clips and editing video annotations using CVAT annotation tool",
         "Creating and editing annotations in our annotation tool",
@@ -80,6 +80,20 @@
         "Consistently delivered on commitments, evidenced by a 100% completion rate of assigned Jira tickets, showcasing effective task management and adherence to project timelines",
         "Collaborated in daily stand-up meetings, offering comprehensive progress reports in line with the Agile framework that streamlines communication",
         "Contributed to sprint retrospectives, giving insights and suggestions for process improvement"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Undergraduate Researcher (Software Engineering)",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "Present",
+      "summary": "Conduct undergraduate research on code quality and best coding practices",
+      "highlights": [
+        "Examining the naming practices of identifiers in data science code, including implementing tools to extract abbreviations and acronyms and automatically looking for their expanded form",
+        "Performing a literature review to understand coding best practices for Python code and creating a catalog of such practices",
+        "Analysis of JUnit assertion error messages within open-source Java systems to explore their construction and characteristics",
+        "Employing grounded theory techniques and surveying professional developers on their experience and perception of assertion error messages"
       ]
     }
   ],
