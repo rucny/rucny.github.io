@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/identifier/py.png
 title: "An Exploratory Study Investigating Identifier Naming Practices in Data Science Code"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A research study investigating Python data science code to uncover prevalent practices among data scientists when it comes to naming identifiers."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/identifier/abb.jpg">
 
 At the time of writing, my research involves examining data science code written in Python to gain insights into the common practices that data scientists follow when naming identifiers. Identifiers refer to the unique lexical tokens found within code, which include names for classes, methods, variables, arguments, and more. In particular, I am working with the use of abbreviations and acronyms in identifier naming. Identifier names are important because they help programmers to understand the code's functionality.
 
