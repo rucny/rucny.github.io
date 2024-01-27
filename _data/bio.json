@@ -72,7 +72,7 @@
       "website": "https://www.fhb.com/en/",
       "startDate": "2023-06-01",
       "endDate": "2023-08-15",
-      "summary": "Modified internal-facing web pages",
+      "summary": "Modified company web pages",
       "highlights": [
         "Established unified visual identity on internal-facing web pages using HTML and CSS, aligning with the company's brand theme",
         "Implemented responsive design principles, ensuring a consistent viewing experience across various devices and browsers",
@@ -86,27 +86,26 @@
   "volunteer": [
     {
       "organization": "UHM Hawaii Undergraduate Initiative",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "website": "https://manoa.hawaii.edu/omsshui/",
+      "position": "Peer Mentor",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "Peer mentor for incoming UHM freshmen",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Successfully mentored and provided guidance to fellow students, fostering a supportive environment conducive to personal and academic growth",
+        "Demonstrated strong leadership by organizing and leading workshops, creating a positive and inclusive mentorship community that contributed to the overall success of the program"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "UHM Hawaii Undergraduate Initiative",
+      "website": "https://manoa.hawaii.edu/omsshui/",
+      "position": "Director of Internal Affairs",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Led HUI senate meetings to plan events and activities for the cohort",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Created and distributed monthly newsletters for the HUI cohort of 60+ undergraduate UHM students",
+        "Recorded and organized  meeting minutes during biweekly senate meetings, ensuring accurate documentation of discussions and action items, contributing to transparent communication and accountability within the team"
       ]
     }
   ],
