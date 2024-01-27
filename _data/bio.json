@@ -31,12 +31,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-23",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ICS 111", "ICS 211", "ICS 212", "ICS 141", "ICS 241", "MATH 307", "ICS 311", "ICS 314"
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Japanese",
+      "studyType": "Minor",
+      "startDate": "2021-08-23",
+      "endDate": "2024-05-10",
+      "courses": [ "JPN 201", "JPN 202", "JPN 301", "JPN 302", "EALL 271", "EALL 371", "EALL 372"
       ]
     }
   ],
