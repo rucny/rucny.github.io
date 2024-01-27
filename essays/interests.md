@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/interests/code.jpg">
 
-*Charting a Course in Software Engineering*
+## Charting a Course in Software Engineering
 
 As a computer science student, my journey in software engineering has been marked by a diverse skill set that spans multiple languages and tools. This proficiency in various programming languages and web development technologies not only showcases my adaptability but also sets the stage for exploring the multifaceted world of software engineering. I find great satisfaction in the process of transforming conceptual ideas into tangible, functional applications, propelling my interest in software design, development, and optimization.
 
