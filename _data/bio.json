@@ -51,33 +51,41 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "AI.Fish",
+      "position": "Software Engineering Intern",
+      "website": "https://www.ai.fish/",
+      "startDate": "2024-01-24",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Perform machine learning internship services",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Storage and organization of new datasets on the company's local server environment",
+        "Backup of datasets from our local server environment to our cloud environment",
+        "Running scripting to create video clips",
+        "Organizing video clips and editing video annotations using CVAT annotation tool",
+        "Creating and editing annotations in our annotation tool",
+        "Quality assurance (peer-review) of annotations"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "First Hawaiian Bank",
+      "position": "Software Engineering Intern",
+      "website": "https://www.fhb.com/en/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-15",
+      "summary": "Modified internal-facing web pages",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Established unified visual identity on internal-facing web pages using HTML and CSS, aligning with the company's brand theme",
+        "Implemented responsive design principles, ensuring a consistent viewing experience across various devices and browsers",
+        "Actively engaged in the team's bi-weekly sprints",
+        "Consistently delivered on commitments, evidenced by a 100% completion rate of assigned Jira tickets, showcasing effective task management and adherence to project timelines",
+        "Collaborated in daily stand-up meetings, offering comprehensive progress reports in line with the Agile framework that streamlines communication",
+        "Contributed to sprint retrospectives, giving insights and suggestions for process improvement"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "UHM Hawaii Undergraduate Initiative",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
