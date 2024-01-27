@@ -13,11 +13,7 @@ labels:
 summary: "I modified First Hawaiian Bank web pages using HTML and CSS."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/fhb/html.jpg">
 
 During my First Hawaiian Bank summer software engineering internship, I played a role in enhancing the internal-facing web pages by establishing a unified visual identity using HTML and CSS. This involved aligning the design elements with the company's brand theme to create a cohesive and professional look. Additionally, I focused on implementing responsive design principles to ensure a seamless viewing experience across various devices and browsers. Unfortunately, I am not allowed to publicly display the work that I accomplished at FHB. This experience allowed me to contribute directly to the overall user experience and the company's commitment to maintaining a consistent visual presence.
 
