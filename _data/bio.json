@@ -21,12 +21,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "UNIX", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
