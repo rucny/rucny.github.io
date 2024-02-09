@@ -11,22 +11,19 @@ labels:
   - Best Practices
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/q.png" >
-
-## Introduction
-In the world of making computer programs, it's really important to have some rules, called coding standards. These rules help make sure that the software we create is strong, easy to understand, and can grow over time. This essay talks about why coding standards are so important in making good software and how they make our work easier.
+<img width="300px" class="rounded float-start pe-4" src="../img/coding-standards/ESLint.png" >
 
 ## Making Code Easier to Understand and Change
-Coding standards help us write code in a way that's easy to read. This means using the same style for things like naming variables and organizing the code. When everyone follows these rules, it's like speaking the same language. It makes it much easier for different people to work together on the same project. Also, when we need to change something in the code, like fixing a bug or adding a new feature, it's much quicker and safer if the code is easy to understand.
+In the world of programming, it's really important to have some rules like coding standards. These rules help make sure that the software we create is strong, easy to understand, and can grow over time. Coding standards help us write code in a way that's easy to read. This means using the same style for things like naming variables and organizing the code. When everyone follows these rules, it's like speaking the same language. It makes it much easier for different people to work together on the same project. Also, when we need to change something in the code, like fixing a bug or adding a new feature, it's much quicker and safer if the code is easy to understand.
+
+## My Experience with ESLint
+My experience with ESLint this past week has been really helpful. At first, I wasn't sure how useful it would be, thinking it was just for making sure my code looked neat. But as I used it more, I realized it does a lot more than that. ESLint catches mistakes in my code and helps me be consistent in my code. It has been giving me useful feedback while I'm coding and saving me time fixing errors later on. The tool has definitely improved my coding and made me more aware of writing clean, well-organized code.
 
 ## Helping with Checking Code
-When we work together on a project, we often check each other's code to make sure it's good. Coding standards give us a checklist of things to look for when we're checking. This helps us focus on what's really important, like if the code works correctly and follows the plan, instead of getting caught up in small style issues.
+When we work together on a project, we often check each other's code to make sure it works properly. Coding standards essentially give us a checklist of things to look for when we're reviewing code. This allows us focus on things that are really important, like if the code functions as intended and follows the plan, instead of getting caught up in small style issues.
 
-## Making Things the Same Across Different Projects
-In big companies with lots of projects and teams, it's important to keep things consistent. Coding standards help with this by making sure all projects follow the same set of rules. This means that when a developer moves to a new project, they already know how things work. It saves time and makes sure everyone is on the same page.
-
-## Following the Best Ways to Do Things
-Coding standards aren't just about making code look nice. They also help us do things the best way possible. These rules come from years of experience and lessons learned by other developers. By following coding standards, we're using the smartest methods and keeping our software safe from common mistakes.
+## Professionals Have Standards
+In big companies with lots of projects and teams, it's important to keep things consistent. Coding standards help with this by making sure all projects follow the same set of rules. This means that when a developer moves to a new project, they already know how things work and what they need to do. It saves time and allows for everyone to be on the same page.
 
 ## Conclusion
 Coding standards are like a roadmap for making good software. They help us write code that's easy to understand, work together smoothly, and stay consistent across different projects. By following these rules, we're not just making our own lives easier but also building better software for everyone.
