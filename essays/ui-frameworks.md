@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img class="rounded float-center pe-4" src="https://courses.ics.hawaii.edu/ics314s24/morea/ui-frameworks/reading-bootstrap-5-hello-world-6.png">
+<img width="50%" class="rounded float-center pe-4" src="https://courses.ics.hawaii.edu/ics314s24/morea/ui-frameworks/reading-bootstrap-5-hello-world-6.png">
 
 The image above is the first web page that I created using Twitter Bootstrap 5. It is interesting to think about the fact that in just a week, I was able to go from just displaying the text “Hello World” on a web page to actually implementing replicas of pages that real people actually use.
 
